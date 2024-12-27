@@ -1,4 +1,4 @@
-# llm-best-practices-in-academy
+# LLM best-practices in academy
 Sharing some experience and guidance on ethical LLM usage in academy
 
 * [Draft collaborators and affiliations form for NSF](NSF_COA_form)
