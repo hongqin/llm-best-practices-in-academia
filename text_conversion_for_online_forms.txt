@@ -1,0 +1,5 @@
+
+Many online form require ASC input. So, when copy-paste from WORD input, some non-ASC characters such as special quotes sympbols (which are hard to detect by human), need to be converted. 
+This kind of task can be efficietly handled by LLM. 
+
+Suggested prompt: "Convert all characters into ASC characters in the following text: ..., ..."
