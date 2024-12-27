@@ -1,0 +1,17 @@
+Draft the COA forms for NSF proposal with LLM. 
+
+For USA NSF grant application, the Collaborators and Other Affiliations (COA) form is an Excel template requiring:
+Part 1 - Professional Appointments (current and within last 5 years)
+Institution
+Start/end dates
+Position title
+
+Part 2 - Collaborators (past 48 months)
+Co-authors
+Co-editors
+Research collaborators
+Graduate/postdoc advisors
+Graduate/postdoc advisees
+
+LLM can used to generate a list of co-authors. For a free account of ChatGPT, these can be done by copy-paste the author names and affilation from the publications. 
+The prompt can be "Extract names, affiliations from the following and put into a table. Put the names in the first column and affilation in second column". 
