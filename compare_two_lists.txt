@@ -1,0 +1,8 @@
+Prompt 1: 
+Here is a list of numbers. just remember them for now. Call this list as list_A. 
+  134526  342123 354399 771672 ... ...
+
+Prompt 2: Here is a list of student names and their ids. Call this list_B.  Are all entries in list_A also in list_B? 
+  Smith134526  John342123 Adam354399 Bob771672 ... ... 
+
+Prompt 3: Print the student name and ids from list_B that are not in list_A. 
