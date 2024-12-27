@@ -6,6 +6,7 @@ Sharing some experience and tips on ethical LLM usage in academy
 * [Typo and format conversion, such as ' in different fonts, removal of special character](ext_conversion_for_online_forms.txt)
 
 * [Compare two lists of entries](compare_two_lists.txt)
+This can be helpful to check missing assignments in a class. 
 
 * reference format change
 
