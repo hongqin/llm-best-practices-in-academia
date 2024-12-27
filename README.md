@@ -8,7 +8,7 @@ Sharing some experience and tips on ethical LLM usage in academy
 * [Compare two lists of entries](compare_two_lists.txt)
 This can be helpful to check missing assignments in a class. 
 
-* [Set up local LLM](setup_local_LLM.txt) on confidential documents. 
+* [Set up local LLM](setup_local_LLM.md) on confidential documents. 
 
 * reference format change
 
