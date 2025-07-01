@@ -19,4 +19,6 @@ etc
 
 * funding opportunities match
 
-  
+* parse emails from outlook boxes.
+
+*   
