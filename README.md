@@ -21,4 +21,8 @@ etc
 
 * parse emails from outlook boxes.
 
-*   
+* generate multiple choice questions
+
+* math plug-in
+  
+* cross-validate with mulitiple LLMs
