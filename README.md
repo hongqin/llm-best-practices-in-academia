@@ -25,4 +25,4 @@ etc
 
 * math plug-in
   
-* cross-validate with mulitiple LLMs
+* cross-validate with mulitiple LLMs, gemine quiz generation? 
