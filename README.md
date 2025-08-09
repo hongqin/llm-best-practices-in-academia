@@ -10,6 +10,9 @@ This can be helpful to check missing assignments in a class.
 
 * [Set up local LLM](setup_local_LLM.md) on confidential documents. 
 
+* calendar event planning
+
+ 
 * reference format change
 RIS
 BIB
