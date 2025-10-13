@@ -30,4 +30,6 @@ etc
   
 * cross-validate with mulitiple LLMs,
 
-* mulitple choice quiz generation
+* multiple choice quiz generation
+
+* 
