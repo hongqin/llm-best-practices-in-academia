@@ -32,4 +32,7 @@ etc
 
 * multiple choice quiz generation
 
-* 
+References 
+
+https://github.com/eseckel/ai-for-grant-writing
+
